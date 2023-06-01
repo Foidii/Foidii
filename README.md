@@ -1,4 +1,5 @@
 - 👋 Hi, I'm Alicja
-- ✨ I like programming in C
-- 🤖 Interested in learning robotics
+- ✨ I like programming in C, and start to like Matlab
+- 🤖 Interested in learning robotics, automation, and math
 - 😎 Linux > Windows
+- ☕ Avid coffee enjoyer

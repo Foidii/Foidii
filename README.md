@@ -4,5 +4,5 @@
 - 😎 Linux > Windows
 - ☕ Avid coffee enjoyer
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Foidii&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Foidii&show_icons=true&theme=cobalt)
 

@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Alicja
+- 👋 Hi, I'm Alicja Layla
 - ✨ I like programming in C, and start to like Matlab
 - 🤖 Interested in learning robotics, automation, and math
 - 😎 Linux > Windows
